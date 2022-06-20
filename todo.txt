@@ -1,0 +1,6 @@
+We’ve been looking at the ratio of open interest over market cap as a sign of over-leverage in the market. Essentially, when open interest is high relative to market cap it suggests that a lot of investors are over-exposed which can cause strong reversals. (This can also be positive in the case of a short-squeeze like we saw in late July, though).
+Here you can see how that’s played out effectively in 2021.
+
+Short-term: In/Out of the Money Around Price - This classifies addresses and the volume they held at specific price ranges. This points to levels of support and resistance based on buying activity on-chain. For instance for Bitcoin we see strong resistance around $55,000, but if we surpass that level, there is little resistance prior to all-time highs as you can see here.
+
+Longer-term: One of the best indicators to gauge demand for a crypto-asset is the fees it generates. The total fees is therefore a good indication for traction, in particular for smart contract platforms like Ethereum which have grown remarkably in fees since 2017 as you can see here.
